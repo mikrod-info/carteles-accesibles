@@ -1,0 +1,16 @@
+---
+layout: post
+---
+
+# La desigualdad de género disminuye la capacidad de ver al otro como semejante
+
+## Imagen
+
+La imagen muestra a una caricatura de Burbuja, una chica superpoderosa, flameando una bandera blanca con el texto "La desigualdad de género disminuye la capacidad de ver al otro como semejate. 8M"
+
+Burbuja se encuentra en el centro con ojos grandes color azul, pelo naranja, un traje de rayas horizontales azul y zapatitos negros.
+
+## Texto Transcrito
+
+La informática es más fuerte cuando se incluye todas las voces.
+
