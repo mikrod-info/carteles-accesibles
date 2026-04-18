@@ -1,6 +1,5 @@
 ---
 layout: post
-nav_exclude: true
 ---
 
 # Hedy Lamarr (09/11/1914 - 19/01/2000)

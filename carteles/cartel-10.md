@@ -1,6 +1,5 @@
 ---
 layout: post
-nav_exclude: true
 ---
 
 # Cecilia Berdichevsky

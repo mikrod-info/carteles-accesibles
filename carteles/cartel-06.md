@@ -1,6 +1,5 @@
 ---
 layout: post
-nav_exclude: true
 ---
 
 # Las chicas necesitan modems

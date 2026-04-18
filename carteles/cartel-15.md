@@ -1,6 +1,5 @@
 ---
 layout: post
-nav_exclude: true
 ---
 
 # Rebeca Cherep de G. (1926-2020)
