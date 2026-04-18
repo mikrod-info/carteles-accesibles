@@ -1,6 +1,5 @@
 ---
-layout: page
-title: cartel 01
+layout: post
 ---
 
 # Mujeres Pioneras en la Informatica
