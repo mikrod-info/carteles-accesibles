@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Carteles accesibles
 ---
-
-# Carteles accesibles
 
 ## Bienvenida
 
