@@ -8,9 +8,3 @@ collections:
   carteles:
     output: true
     permalink: /carteles/:name.html
-defaults:
-  - scope:
-      path: ""
-      type: carteles
-    values:
-      layout: page
