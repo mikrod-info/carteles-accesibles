@@ -15,4 +15,4 @@ defaults:
       path: ""
       type: carteles
     values:
-      layout: page
+      layout: post
