@@ -3,7 +3,7 @@ layout: page
 title: Contacto
 ---
 
-# Contacto
+## Detección de errores y sugerencias 
 
 Este sitio es mantenido por la Dirección de Accesibilidad de la Facultad de Informática, UNLP.
 

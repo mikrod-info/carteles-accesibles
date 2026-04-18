@@ -1,5 +1,4 @@
 ---
-layout: post
 ---
 
 # Mujeres en el campo de la Informática
