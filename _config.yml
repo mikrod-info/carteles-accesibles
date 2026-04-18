@@ -14,4 +14,4 @@ defaults:
   - scope:
       type: carteles
     values:
-      layout: page
+      layout: default
