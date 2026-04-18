@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Carteles
+title: Listado de Carteles
 ---
-
-# Listado de carteles:
 
 - [Cartel 01](carteles/cartel-01.md)
 - [Cartel 02](carteles/cartel-02.md)
