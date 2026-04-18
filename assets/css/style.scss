@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}"
+
 body {
     font-family: system-ui, sans-serif;
     line-height: 1.7;
@@ -14,5 +19,9 @@ h1, h2 {
     body {
         background: #111;
         color: #eee;
+    }
+
+    a {
+        color: #8ab4f8;
     }
 }
