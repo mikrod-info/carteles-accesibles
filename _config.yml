@@ -7,7 +7,7 @@ markdown: kramdown
 collections:
   carteles:
     output: true
-    permalink: /carteles/:name/
+    permalink: /carteles/:name
 defaults:
   - scope:
       path: ""
