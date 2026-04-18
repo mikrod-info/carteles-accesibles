@@ -2,6 +2,8 @@
 title: Mujeres Pioneras en la Informatica
 ---
 
+# Mujeres Pioneras en la Informatica
+
 ## Imágenes
 
 Fotos en blanco y negro de mujeres trabajando con equipos informáticos antiguos. En la esquina superior izquierda una de ellas mueve unas perillas y otra en la esquina inferior derecha otra mujer programando con conmutadores mientras sostiene un manual o guía.
