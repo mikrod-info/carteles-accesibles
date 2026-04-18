@@ -1,8 +1,6 @@
 ---
-layout: post
+title: Lynn Conway (1938-2024)
 ---
-
-# Lynn Conway (1938-2024)
 
 ## Texto Transcrito (Columna Izquierda)
 

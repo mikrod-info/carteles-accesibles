@@ -1,8 +1,6 @@
 ---
-layout: post
+title: Hedy Lamarr (09/11/1914 - 19/01/2000)
 ---
-
-# Hedy Lamarr (09/11/1914 - 19/01/2000)
 
 ## Texto Transcrito
 

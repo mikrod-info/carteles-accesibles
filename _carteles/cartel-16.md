@@ -1,17 +1,15 @@
 ---
-layout: post
+title: Rebeca Cherep De Guber
 ---
-
-# Rebeca Cherep De Guber 
 
 ## Texto Transcrito
 
 - Nació el 2 de julio de 1996 en avellaneda, BSAS.
-– Fue una matemática y pionera en la informática argentina. Se doctoró en matemáticas en la UNLP 1949, convirtiéndose en una figura clave en el desarrollo y la tecnología en Argentina.  
-– Lideró la creación de la UBA donde se instaló la primera computadora en Argentina.  
-– Escribió el primer Elementos de Calculo Diferencial e Integral (Sadosky)  
-– Buscó promover la informática en la región por medio de ESLAI.  
-- Rebeca Guber falleció el 23 de agosto de 2020 a los 94, dejando un legado importante en la ciencia y tecnología argentina.  
+– Fue una matemática y pionera en la informática argentina. Se doctoró en matemáticas en la UNLP 1949, convirtiéndose en una figura clave en el desarrollo y la tecnología en Argentina.
+– Lideró la creación de la UBA donde se instaló la primera computadora en Argentina.
+– Escribió el primer Elementos de Calculo Diferencial e Integral (Sadosky) 
+– Buscó promover la informática en la región por medio de ESLAI.
+- Rebeca Guber falleció el 23 de agosto de 2020 a los 94, dejando un legado importante en la ciencia y tecnología argentina.
 
 ## Imágenes
 

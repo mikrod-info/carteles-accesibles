@@ -1,8 +1,6 @@
 ---
-layout: post
+title: Propuestas sin estereotipos
 ---
-
-# Propuestas sin estereotipos
 
 ## Descripción General
 
