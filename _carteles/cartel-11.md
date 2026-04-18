@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Ada Lovelace
 ---
 
 # Ada Lovelace

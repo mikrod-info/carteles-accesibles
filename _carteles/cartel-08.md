@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Evelyn Berezin
 ---
 
 # Evelyn Berezin

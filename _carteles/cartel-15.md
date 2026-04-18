@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Rebeca Cherep de G. (1926-2020)
 ---
 
 # Rebeca Cherep de G. (1926-2020)

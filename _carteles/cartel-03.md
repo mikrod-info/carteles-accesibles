@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Por qué hay más hombres que mujeres
 ---
 
 # Por qué hay más hombres que mujeres

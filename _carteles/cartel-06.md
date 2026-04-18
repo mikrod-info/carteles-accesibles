@@ -1,5 +1,5 @@
 ---
-layout: post
+title: Las chicas necesitan modems
 ---
 
 # Las chicas necesitan modems
