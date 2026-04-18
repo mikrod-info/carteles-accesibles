@@ -4,3 +4,6 @@ author: Dirección de Accesibilidad, Facultad de Informática, UNLP
 theme: minima
 skin: auto
 markdown: kramdown
+collections:
+  carteles:
+    output: true
