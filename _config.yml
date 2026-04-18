@@ -4,8 +4,7 @@ author:
   name: Dirección de Accesibilidad, Facultad de Informática, UNLP
 theme: minima
 skin: auto
-minima:
-  nav_pages:
-    - lista-carteles.md
-    - contacto.md
+nav_pages:
+  - lista-carteles.md
+  - contacto.md
 markdown: kramdown
