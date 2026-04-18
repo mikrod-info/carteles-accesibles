@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="/assets/styles.css">
 ---
 layout: home
 title: Carteles accesibles
