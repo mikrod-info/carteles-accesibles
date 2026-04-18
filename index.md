@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Carteles accesibles
-
 ## Bienvenida
 
 Este sitio reúne versiones accesibles de carteles elaborados en el ámbito de la Facultad de Informática de la UNLP.
