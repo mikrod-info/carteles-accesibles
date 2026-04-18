@@ -4,5 +4,5 @@ title: Listado de Carteles
 ---
 
 {% for cartel in site.carteles %}
-- [{{ cartel.title }}]({{ cartel.url }})
+- [{{ cartel.title }}]({{ site.baseurl }}{{ cartel.url }})
 {% endfor %}
