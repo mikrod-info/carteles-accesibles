@@ -1,6 +1,8 @@
 ---
-title: Margaret Hamilton
+layout: post
 ---
+
+# Margaret Hamilton
 
 ## Texto Transcrito
 

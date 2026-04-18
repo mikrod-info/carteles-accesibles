@@ -1,6 +1,8 @@
 ---
-title: Por qué hay más hombres que mujeres
+layout: post
 ---
+
+# Por qué hay más hombres que mujeres
 
 ## Texto Transcrito
 

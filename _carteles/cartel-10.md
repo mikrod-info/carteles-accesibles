@@ -1,6 +1,8 @@
 ---
-title: Cecilia Berdichevsky
+layout: post
 ---
+
+# Cecilia Berdichevsky
 
 ## Imágenes
 

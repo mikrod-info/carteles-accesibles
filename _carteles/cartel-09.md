@@ -1,6 +1,8 @@
 ---
-title: Frances E. Allen
+layout: post
 ---
+
+# Frances E. Allen
 
 ## Texto Transcrito
 

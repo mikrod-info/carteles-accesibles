@@ -1,6 +1,8 @@
 ---
-title: Evelyn Berezin
+layout: post
 ---
+
+# Evelyn Berezin
 
 ## Texto Transcrito
 

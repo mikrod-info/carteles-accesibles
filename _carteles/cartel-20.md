@@ -1,6 +1,8 @@
 ---
-title: El símbolo del feminismo
+layout: post
 ---
+
+# El símbolo del feminismo
 
 ## Imagen
 

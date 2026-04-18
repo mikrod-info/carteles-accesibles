@@ -1,6 +1,8 @@
 ---
-title: Mujeres en el campo de la Informática
+layout: post
 ---
+
+# Mujeres en el campo de la Informática
 
 ## Texto Transcrito
 

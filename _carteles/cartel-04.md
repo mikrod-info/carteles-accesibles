@@ -1,6 +1,8 @@
 ---
-title: ¿Por qué hay cada vez menos mujeres en las TIC?
+layout: post
 ---
+
+# ¿Por qué hay cada vez menos mujeres en las TIC?
 
 ## Imagen
 

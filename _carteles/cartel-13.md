@@ -1,6 +1,8 @@
 ---
-title: Mujeres en la Informática
+layout: post
 ---
+
+# Mujeres en la Informática
 
 ## Imágenes
 

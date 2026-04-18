@@ -1,6 +1,8 @@
 ---
-title: Ada Lovelace
+layout: post
 ---
+
+# Ada Lovelace
 
 ## Texto Transcrito
 

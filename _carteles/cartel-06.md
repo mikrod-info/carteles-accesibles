@@ -1,6 +1,8 @@
 ---
-title: Las chicas necesitan modems
+layout: post
 ---
+
+# Las chicas necesitan modems
 
 ## Texto Transcrito
 
