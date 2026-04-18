@@ -1,6 +1,5 @@
 ---
 layout: post
-title: cartel 01 (test)
 ---
 
 # Mujeres Pioneras en la Informatica

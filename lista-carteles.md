@@ -3,7 +3,7 @@ layout: page
 title: Listado de Carteles
 ---
 
-- [Cartel 01](/carteles/cartel-01/)
+- [Cartel 01]({{ site.baseurl }}/carteles/cartel-01/)
 - [Cartel 02](/carteles/cartel-02/)
 - [Cartel 03](/carteles/cartel-03/)
 - [Cartel 04](/carteles/cartel-04/)
