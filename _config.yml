@@ -10,3 +10,8 @@ collections:
   carteles:
     output: true
     permalink: /carteles/:name/
+defaults:
+  - scope:
+      type: carteles
+    values:
+      layout: default
