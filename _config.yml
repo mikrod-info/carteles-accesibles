@@ -8,10 +8,4 @@ markdown: kramdown
 collections:
   carteles:
     output: true
-    permalink: pretty
-defaults:
-  - scope:
-      path: ""
-      type: carteles
-    values:
-      layout: page
+    permalink: /carteles/:name/
