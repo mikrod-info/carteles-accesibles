@@ -1,5 +1,6 @@
 ---
 layout: post
+nav_exclude: true
 ---
 
 # Frances E. Allen

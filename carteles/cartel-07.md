@@ -1,5 +1,6 @@
 ---
 layout: post
+nav_exclude: true
 ---
 
 # Lynn Conway (1938-2024)

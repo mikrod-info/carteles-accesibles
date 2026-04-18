@@ -1,5 +1,6 @@
 ---
 layout: post
+nav_exclude: true
 ---
 
 # Mujeres en la Informática

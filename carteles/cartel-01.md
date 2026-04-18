@@ -1,5 +1,6 @@
 ---
 layout: post
+nav_exclude: true
 ---
 
 # Mujeres Pioneras en la Informatica

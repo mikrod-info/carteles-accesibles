@@ -1,5 +1,6 @@
 ---
 layout: post
+nav_exclude: true
 ---
 
 # ¿Por qué hay cada vez menos mujeres en las TIC?
