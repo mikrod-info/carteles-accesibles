@@ -1,8 +1,8 @@
 ---
-title: Ada Lovelace: Primera Programadora
+title: Ada Lovelace, Primera Programadora
 ---
 
-# Ada Lovelace: Primera Programadora
+# Ada Lovelace, Primera Programadora
 
 ## Imagen
 
