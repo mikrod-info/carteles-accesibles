@@ -9,10 +9,4 @@ markdown: kramdown
 collections:
   carteles:
     output: true
-    permalink: /carteles/:name/
-defaults:
-  - scope:
-      path: ""
-      type: carteles
-    values:
-      layout: post
+    permalink: /carteles/:name.html
