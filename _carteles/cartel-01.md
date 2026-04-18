@@ -1,7 +1,6 @@
 ---
+title: Mujeres Pioneras en la Informatica
 ---
-
-# Mujeres Pioneras en la Informatica
 
 ## Imágenes
 
