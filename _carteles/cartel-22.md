@@ -15,7 +15,7 @@ La informática es un campo amplio que se basa en la innovación y la capacidad 
 Esto al ser un campo tan amplio, demanda tener una diversidad que se está perdiendo.
 
 | 1970 | 1985 | 2000 | 2024 |
----
+| --- | --- | --- | --- |
 | 70% | 45% | 25% | 18% |
 
 (elegir tabla o lista)
