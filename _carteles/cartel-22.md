@@ -18,15 +18,7 @@ Esto al ser un campo tan amplio, demanda tener una diversidad que se está perdi
 | --- | --- | --- | --- |
 | 70% | 45% | 25% | 18% |
 
-(elegir tabla o lista)
-
-1970 - 70%  
-1985 - 45%  
-2000 - 25%  
-2024 - 18%
-
 ### Columna Derecha
-
 
 **GRACE HOPPER**
 
