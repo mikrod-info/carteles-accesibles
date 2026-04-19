@@ -9,6 +9,8 @@ Este sitio reúne versiones accesibles de carteles elaborados en el ámbito de l
 
 Cada página incluye la transcripción del contenido y una descripción textual pensada para facilitar su comprensión.
 
+En algunos casos se agregan indicaciones entre corchetes para brindar contexto adicional, por ejemplo: [Columna izquierda] o [Parte superior].
+
 ## ¿Cómo usar el sitio?
 
 Podés acceder a cada cartel escaneando su código QR o navegando desde el listado.
