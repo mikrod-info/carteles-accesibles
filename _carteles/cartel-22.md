@@ -6,7 +6,7 @@ title: Grace Hopper
 
 ## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 **INFORMÁTICA**
 
@@ -18,7 +18,7 @@ Esto al ser un campo tan amplio, demanda tener una diversidad que se está perdi
 | --- | --- | --- | --- |
 | 70% | 45% | 25% | 18% |
 
-### Columna Derecha
+[Columna derecha]
 
 **GRACE HOPPER**
 

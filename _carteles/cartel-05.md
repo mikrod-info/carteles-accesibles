@@ -10,7 +10,7 @@ La imagen muestra a una caricatura de Burbuja, una chica superpoderosa, flameand
 
 Burbuja se encuentra en el centro con ojos grandes color azul, pelo naranja, un traje de rayas horizontales azul y zapatitos negros.
 
-## Texto Transcrito
+## Texto Transcripto
 
 La informática es más fuerte cuando se incluye todas las voces.
 

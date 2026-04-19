@@ -12,19 +12,19 @@ En la esquina superior derecha hay un dibujo de una computadora con la palabra "
 
 ## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 **Laboral**
 
 La ciencia y la tecnología deben ser espacios para todas las personas. Cuando las mujeres tienen las mismas oportunidades, se generan más ideas de innovación y progreso para toda la sociedad.
 
-### Columna Central
+[Columna central]
 
 **Social**
 
 El problema no es la capacidad de las mujeres en la tecnología sino las barreras sociales y los estereotipos, romper esas barreras permite que más talento puedan desarrollar.
 
-### Columna Derecha
+[Columna derecha]
 
 **Educativo**
 

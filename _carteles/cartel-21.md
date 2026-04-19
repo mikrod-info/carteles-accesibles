@@ -4,13 +4,17 @@ title: Hedy Lamarr
 
 # Hedy Lamarr
 
-## Imágenes (Columna Izquierda)
+## Imágenes 
+
+[Columna izquierda]
 
 Hay un dibujo hecho con fibrones de Hedy Lamarr joven, con cabello oscuro y ondulado, vestida con una blusa azul de botones. Ella está dentro de una pantalla de televisión rectangular y tiene un globo de pensamiento que dice: "¿Y si la señal cambiara de frecuencia para que no la puedan interceptar?"
 
 En la parte inferior derecha, hay dos iconos dibujados: uno que representa una señal de Wi-Fi y otro el símbolo de Bluetooth.
 
-## Texto Transcripto (Columna Izquierda)
+## Texto Transcripto 
+
+[Columna derecha]
 
 ### ¿Quién fue?
  

@@ -21,12 +21,12 @@ La tecnología y la ciencia pueden ayudar a crear sociedades más igualitarias a
 ## Integrantes
 
 - Arévalo Alexis
-- Valencia Losnna  
-- Franco Calva Samio  
-- Franco Montero Larisa  
-- Ticante Wilfrido  
-- Romero Casildo Arely  
+- Valencia Losnna
+- Franco Calva Samio
+- Franco Montero Larisa
+- Ticante Wilfrido
+- Romero Casildo Arely
 - Bravo Dany
-- Yolotzin Abimelec  
+- Yolotzin Abimelec
 - Roblero Berman
 - Peraza Wendy Nicole

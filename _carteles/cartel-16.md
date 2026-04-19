@@ -4,7 +4,7 @@ title: Rebeca Cherep De Guber
 
 # Rebeca Cherep De Guber
 
-## Texto Transcrito
+## Texto Transcripto
 
 - Nació el 2 de julio de 1996 en avellaneda, BSAS.
 – Fue una matemática y pionera en la informática argentina. Se doctoró en matemáticas en la UNLP 1949, convirtiéndose en una figura clave en el desarrollo y la tecnología en Argentina.

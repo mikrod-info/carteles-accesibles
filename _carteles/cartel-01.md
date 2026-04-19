@@ -8,15 +8,15 @@ title: Mujeres pioneras en la Informatica
 
 Fotos en blanco y negro de mujeres trabajando con equipos informáticos antiguos. En la esquina superior izquierda una de ellas mueve unas perillas y otra en la esquina inferior derecha otra mujer programando con conmutadores mientras sostiene un manual o guía.
 
-## Texto Transcrito
+## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 Las mujeres también fueron protagonistas en la historia de la tecnología.
 
 Reconocer sus aportes ayuda a construir una informática más inclusiva.
 
-### Columna Derecha
+[Columna derecha]
 
 Mujeres científicas como Rebeca Guber y Cecilia Tuwjasz participaron en los primeros desarrollos de la informatica en el país.
 

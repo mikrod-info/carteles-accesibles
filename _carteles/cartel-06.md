@@ -4,7 +4,7 @@ title: Las chicas necesitan modems
 
 # Las chicas necesitan modems
 
-## Texto Transcrito
+## Texto Transcripto
 
 Jude Milhon: Famosa hacker y defensora de los derechos personales en internet, autora del ciberpunk, animaba a las mujeres a acceder a internet por elección personal.
 

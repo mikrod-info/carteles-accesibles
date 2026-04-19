@@ -4,7 +4,9 @@ title: Mujeres programadoras
 
 # Mujeres programadoras
 
-## Texto Transcripto (Columna Izquierda)
+## Texto Transcripto
+
+[Columna izquierda]
 
 Las primeras personas en programar fueron mujeres. 
 
@@ -17,7 +19,9 @@ Fueron 6 las que crearon el programa demo de la ENIAC (primera computadora digit
 - Marlyn Meltzer
 - Kathleen Antonelli
 
-## Imagen (Columna Derecha)
+## Imagen
+
+[Columna derecha]
 
 Se presenta la ilustración en colores de Matías (Yo, Matías) con una camisa roja de lunares negros y pantalones cortos azules. El niño tiene una expresión curiosa y dice en un globo de diálogo:
 

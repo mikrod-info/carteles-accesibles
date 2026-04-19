@@ -8,7 +8,7 @@ title: Ada Lovelace, Primera Programadora
 
 En el centro hay un dibujo a lápiz de Ada Lovelace con el peinado recogido, sentada frente a una mesa con papeles y un lápiz en la mano. Al fondo hay un gráfico de una máquina similar a una calculadora antigua. Alrededor de ella hay signos científicos, fórmulas matemáticas y cuentas, sugiriendo un proceso de pensamiento creativo y analítico.
 
-## Texto Transcrito
+## Texto Transcripto
 
 - NACIMIENTO: 10 de Diciembre de 1815, Londres
 - FALLECIMIENTO: 27 de Noviembre de 1852

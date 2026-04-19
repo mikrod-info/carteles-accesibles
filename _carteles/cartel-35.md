@@ -1,8 +1,8 @@
 ---
-title: Género en informática
+title: Género en Informática
 ---
 
-# Género en informática
+# Género en Informática
 
 ## Imagen
 

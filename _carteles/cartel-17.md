@@ -4,7 +4,7 @@ title: Ada Lovelace
 
 # Ada Lovelace
 
-## Texto Transcrito
+## Texto Transcripto
 
 Una mujer nacida el 10 de diciembre de 1815. Considera la primer programadora de la historia, descubrió un algoritmo para calcular números de Bernoulli, considerado el primer programa de computadora de la historia. Era una apasionada de las matemáticas que se animó a explorar el pensamiento abstracto mucho mas allá de lo que era "aconsejable" para las mujeres. 
 

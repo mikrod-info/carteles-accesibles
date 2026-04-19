@@ -8,8 +8,8 @@ title: Propuestas sin estereotipos
 
 Alrededor de "PROPUESTAS SIN ESTEREOTIPOS" hay flechas verdes apuntando hacia cuatro elementos, cada uno escrito en letras mayúsculas:
 
-1. Arriba a la izquierda: "MARKETING".
-2. Arriba a la derecha: "CHARLAS INFORMATIVAS".
-3. Abajo a la derecha: "JUEGOS".
-4. Abajo a la izquierda: "+ RECONOCIMIENTO A LOS/AS PIONEROS/AS".
+- Arriba a la izquierda: "MARKETING".
+- Arriba a la derecha: "CHARLAS INFORMATIVAS".
+- Abajo a la derecha: "JUEGOS".
+- Abajo a la izquierda: "+ RECONOCIMIENTO A LOS/AS PIONEROS/AS".
 

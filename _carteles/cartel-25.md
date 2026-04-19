@@ -4,7 +4,6 @@ title: Rebeca Cherep de Guber
 
 # Rebeca Cherep de Guber (1926 - 2020)
 
-
 ## Imágenes
 
 En la parte superior izquierda hay un dibujo de una mujer con anteojos y cabello rizado, frente a una computadora mirando el monitor.
@@ -13,7 +12,7 @@ En la parte inferior derecha hay un dibujo de un hombre con anteojos una remera 
 
 ## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 **¿Quién fue?**
 
@@ -24,7 +23,8 @@ Matemática y pionera argentina de la informática.
 - Lideró la puesta en marcha de la primera computadora del país en la UBA (1961)
 - En 1983, impulsó la reconstrucción del sistema científico nacional desde la Secretaría de Ciencia y Técnica.
 
-### Columna Central
+
+[Columna central]
 
 Ada Lovelace: Pionera en informática.
 
@@ -34,7 +34,8 @@ Margaret Hamilton: Pionera en la ingeniería y el software.
 
 Lise Meitner: Física nuclear que condujo el descubrimiento de la fisión nuclear.
 
-### Columna Derecha
+
+[Columna derecha]
 
 **Rol y Estereotipos**
 

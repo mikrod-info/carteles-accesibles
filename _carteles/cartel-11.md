@@ -4,7 +4,7 @@ title: Ada Lovelace
 
 # Ada Lovelace
 
-## Texto Transcrito
+## Texto Transcripto
 
 Nacida el 10 de Diciembre de 1815
 

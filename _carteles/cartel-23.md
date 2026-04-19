@@ -6,7 +6,7 @@ title: Cecilia Berdichevsky
 
 ## Texto Transcripto
 
-### Colmuna Izquierda
+[Colmuna izquierda]
 
 **TRABAJOS**
 
@@ -17,7 +17,7 @@ title: Cecilia Berdichevsky
 - Consultora en Informática.
 - Participó en proyectos y organismos internacionales como el PNUD.
 
-### Parte Central
+[Columna central]
 
 En la parte superior central, dice: "Primera Programadora de La Clementina (Primera gran computadora de Argentina)"
 
@@ -27,7 +27,7 @@ En la parte inferior central, hay dos fechas en letras verdes:
   - Polonia 30/03/1925 -> Nació con el nombre de Mirjam Tuwjasz
   - Argentina 28/02/2010 -> A los cuatro años emigra a la Argentina y adopta el nombre Cecilia
 
-### Columna Derecha
+[Columna derecha]
 
 **ESTUDIOS**
 - Matemáticas en la UBA, Facultad de Ciencias Exactas.

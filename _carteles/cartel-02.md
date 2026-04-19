@@ -4,11 +4,11 @@ title: Mujeres en el campo de la Informática
 
 # Mujeres en el campo de la Informática
 
-## Texto Transcrito
+## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
-¿Conoces a estas mujeres?
+**¿Conoces a estas mujeres?**
 
 - Ada Lovelace:
 Fue reconocida como la primera programadora. Esto es porque fue la primera en crear un algoritmo para ser procesado por una máquina. Nació el 10 de diciembre de 1815. Desarrolla un algoritmo para la "máquina analítica" de Charles Babbage en 1843.
@@ -16,7 +16,7 @@ Fue reconocida como la primera programadora. Esto es porque fue la primera en cr
 - Katie Bouman:
 El 10 de abril de 2019 se publicó la primera imagen de la sombra de un agujero negro de la galaxia M87 que fue captada en abril de 2017 a 55 millones de años luz de la tierra. Junto a su equipo desarrolló el algoritmo para crear la imagen. "Tomé prestada la noticia del agujero negro".
 
-### Columna Central
+[Columna central]
 
 Porque es importante
 darles visibilidad
@@ -28,7 +28,7 @@ y
 excelentes
 referentes
 
-### Columna Derecha
+[Columna derecha]
 
 - Margaret Hamilton:
 Una científica estadounidense se convirtió en pionera en el campo de la ingeniería de software. Utilizó el término "ingeniería de software" para dar valor a esa disciplina, era la directora del grupo de desarrollo de software del Programa Apolo.

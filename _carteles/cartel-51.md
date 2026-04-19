@@ -16,12 +16,16 @@ title: Mujeres de la Informática
 - Profesora en la Universidad de Michigan
 - Perdió su empleo por "transicionar" y fue defensora de los derechos de las personas trans
 
+[Columna central]
+
 ### Ada Lovelace
 
 - Primera programadora
 - Amante de las matemáticas
 - Escribió el primer algoritmo para la máquina analítica de Babbage
 - El lenguaje de programación "ADA" lleva su nombre en su honor
+
+[Columna derecha]
 
 ### Grace Murray H.
 

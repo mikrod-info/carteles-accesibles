@@ -4,7 +4,7 @@ title: Margaret Hamilton
 
 # Margaret Hamilton
 
-## Parte Superior
+[Parte superior]
 
 Hay burbujas de texto rodeande el nombre de Margaret Hamilton.
 
@@ -24,15 +24,18 @@ Parte inferior:
 - Una de las 1ras programadoras de software.
 - Cofundó la empresa higher order software.
 
-## Parte Inferior (Columna Izquierda)
+## Texto Transcripto
 
-### Texto Transcripto
+[Parte inferior]
+[Columna izquierda]
 
 Fundó sus propias empresas Higher Order Software y Hamilton Technologies.
 
 Recibió varias condecoraciones entre ellas, el premio a la ley espacial excepcional de la NASA (2003) y en 2016 el presidente Barack Obama le otorgó la medalla presidencial de la libertad.
 
-## Imagen (Columna Derecha)
+## Imagen 
+
+[Columna derecha]
 
 Hay un dibujo de Margaret Hamilton con cabello rubio largo y gafas, sonriendo mientras muestra la pila de software impreso que mide tanto como ella. Ella está vestida con un suéter de rayas verdes. La imagen contribuye a la representación de Margaret Hamilton con una actitud amigable y rodeada de su legado en programación y desarrollo de software.
 

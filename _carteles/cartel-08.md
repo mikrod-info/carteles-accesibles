@@ -4,9 +4,9 @@ title: Evelyn Berezin
 
 # Evelyn Berezin
 
-## Texto Transcrito
+## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 Mientras trabajaba en
 Underwood Company
@@ -17,7 +17,7 @@ sistema de reserva
 de vuelos en tiempo
 real.
 
-### Columna Central
+[Columna central]
 
 CREADORA DEL PRIMER 
 ORDENADOR DE OFICINA
@@ -26,7 +26,7 @@ EN 1968 CREÓ UN
 PROGRAMA PARA CREAR Y 
 GESTIONAR TEXTOS
 
-### Columna Derecha
+[Columna derecha]
 
 NACIÓ EN EL 
 BRONX EN 1925,

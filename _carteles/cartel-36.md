@@ -14,7 +14,7 @@ Se aclara que 3 de cada 4 ingresantes eran mujeres en 1970.
 
 ## Texto Transcripto
 
-### Columna Izquierda
+[Columna izquierda]
 
 **1984**
 
@@ -24,13 +24,13 @@ Causas posibles: Aparición de PC en hogares, las cuales se veían como juguetes
 simplicidad -> jugueterías
 simplicidad -> televisión
 
-### Columna Central
+[Columna central]
 
 **2015**
 
 15% ingresantes mujeres.
 
-### Columna Derecha
+[Columna derecha]
 
 **Actualidad**
 

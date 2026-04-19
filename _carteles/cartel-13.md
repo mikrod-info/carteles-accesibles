@@ -10,7 +10,7 @@ En la esquina superior izquierda hay una fotografía en blanco y negro de dos mu
 
 En la esquina inferior derecha hay una imagen de Mr. Robot encapuchado con brazos cruzados y sonriendo ligeramente. Debajo de la imagen está la palabra "HACKERMAN" en letras grandes.
 
-## Texto Transcrito
+## Texto Transcripto
 
 En los años 40~60, la programación era un campo dominado por mujeres, subestimado y visto como un oficio meramente administrativo y rutinario. El ensamblaje de hardware, por otro lado, era considerado más importante, "ingeniería de verdad" y trabajo de hombres.
 

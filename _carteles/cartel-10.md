@@ -10,7 +10,7 @@ Hay una fotografía en la esquina superior derecha en blanco y negro de Cecilia 
 
 La segunda fotografía en color en la parte inferior derecha, que la muestra mayor y sonriendo.
 
-## Texto Transcrito
+## Texto Transcripto
 
 ### ¿Quién fue?
 
