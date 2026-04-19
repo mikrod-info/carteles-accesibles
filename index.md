@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Carteles accesibles
+title: Inicio
 ---
 
 ## Bienvenida
