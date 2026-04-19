@@ -25,7 +25,7 @@ Hoy se está intentando corregir esto. Cada vez se reconoce el trabajo de mujere
 
 | Factor | Descripción |
 | --- | --- |
-­| Percepción de género | La programación como un triunfo "masculino" |
+| Percepción de género | La programación como un triunfo "masculino" |
 | Falta de reconocimiento | Pocas mujeres en posiciones de liderazgo en la industria |
 | Propuestas educativas | Accesoo ilimitado a la educación tecnológicaa para mujeres |
 
