@@ -4,7 +4,7 @@ title: Tecnología y Género
 
 # Tecnología y Género
 
-## Texto Transcripto
+## Texto transcrito
 
 **Mujeres en la historia informática**
 

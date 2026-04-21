@@ -4,7 +4,7 @@ title: Evelyn Berezin
 
 # Evelyn Berezin
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 
@@ -32,7 +32,7 @@ Nació en el
 Bronx en 1925,
 Nueva york.
 
-## Imagen
+## Descripción de imagen
 
 Dibujo de una computadora de diseño antiguo hecho a lápiz.
 Un cuadrado con una W, probablemente representando a un disquette.

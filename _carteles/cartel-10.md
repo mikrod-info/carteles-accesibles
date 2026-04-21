@@ -4,29 +4,29 @@ title: Cecilia Berdichevsky
 
 # Cecilia Berdichevsky
 
-## Imágenes
+## Descripción de imagen
 
 Hay una fotografía en la esquina superior derecha en blanco y negro de Cecilia Berdichevsky joven, interactuando con una computadora antigua.
 
 La segunda fotografía en color en la parte inferior derecha, que la muestra mayor y sonriendo.
 
-## Texto Transcripto
+## Texto transcrito
 
-### ¿Quién fue?
+**¿Quién fue?**
 
 Científica Informática
 argentina que participó
 en los inicios de la
 computación en el país.
 
-### Aporte 
+**Aporte**
 
 - Trabajo en el Desarrollo y uso de
 las Primeras computadoras.
 - Ayudo a formar estudiantes y profesionales
 en informática.
 
-### Importancia 
+**Importancia** 
 
 - Contribuyó a que la
 Informática se reconociera 

@@ -4,7 +4,7 @@ title: Ada Lovelace
 
 # Ada Lovelace
 
-## Texto Transcripto
+## Texto transcrito
 
 Nacida el 10 de Diciembre de 1815
 
@@ -12,13 +12,13 @@ Fue la Primera Programadora, trabajó con Charles Babbage y describió un lengua
 
 Falleció el 27 de Noviembre de 1852.
 
-## Imágenes
+## Descripción de imagen
 
 En la parte inferior izquierda, hay una imagen de Ada Lovelace con estilo de pintura antigua, vistiendo un vestido adornado con plumas y un tocado con flores.
    
 A su la derecha, hay un retrato de Ada Lovelace sobre un fondo rojo. Viste un vestido de época con el cabello recogido en un moño.
 
-## Descripción General
+## Descripción general
 
 El cartel transmite información sobre la vida y contribuciones de Ada Lovelace al campo de la informática, destacando su papel como pionera en programación.
 

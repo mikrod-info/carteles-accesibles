@@ -4,7 +4,7 @@ title: Grace Hopper
 
 # Grace Hopper
 
-## Texto Transcripto
+## Texto transcrito
 
 **¿Quién fue?**
 

@@ -4,7 +4,7 @@ title: Mujeres en la programación
 
 # Mujeres en la programación
 
-## Texto Transcripto
+## Texto transcrito
 
 Se puede considerar que las mujeres siempre fueron consideradas inferiores en el campo informático. Pero lo cierto es que la informática también es cosa de chicas.
 

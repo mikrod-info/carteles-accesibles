@@ -4,7 +4,7 @@ title: Igualdad de género
 
 # Igualdad de género
 
-## Texto Transcripto
+## Texto transcrito
 
 **¿Sabías Qué...?**
 

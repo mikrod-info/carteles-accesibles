@@ -4,7 +4,7 @@ title: Propuestas sin estereotipos
 
 # Propuestas sin estereotipos
 
-## Descripción General
+## Descripción general
 
 Alrededor de "PROPUESTAS SIN ESTEREOTIPOS" hay flechas verdes apuntando hacia cuatro elementos, cada uno escrito en letras mayúsculas:
 

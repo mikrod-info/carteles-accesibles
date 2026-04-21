@@ -4,11 +4,11 @@ title: Margaret Hamilton
 
 # Margaret Hamilton
 
-## Imagen
+## Descripción de imagen
 
 En la parte central del cartel, hay un dibujo de un monitor de computadora Sony que muestra el logotipo de la NASA, un teclado y mouse.
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 

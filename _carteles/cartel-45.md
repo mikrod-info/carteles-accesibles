@@ -4,7 +4,7 @@ title: Mujeres en la historia de la Informática
 
 # Mujeres en la historia de la Informática
 
-## Imagen 
+## Descripción de imagen
 
 Dibujo de una computadora de escritorio antigua, con una torre, un monitor, un teclado y un mouse. El monitor muestra una pantalla con texto escrito a mano.
 

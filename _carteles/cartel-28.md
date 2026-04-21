@@ -4,7 +4,7 @@ title: Género
 
 # Género
 
-## Texto Transcripto
+## Texto transcrito
 
 El cartel muestra un mapa mental con la palabra Género en el centro y está rodeado por:
 

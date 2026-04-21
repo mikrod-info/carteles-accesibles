@@ -4,13 +4,13 @@ title: Mujeres en la Informática
 
 # Mujeres en la Informática
 
-## Imágenes
+## Descripción de imágenes
 
 En la esquina superior izquierda hay una fotografía en blanco y negro de dos mujeres trabajando con conmutadores en un computador antiguo.
 
 En la esquina inferior derecha hay una imagen de Mr. Robot encapuchado con brazos cruzados y sonriendo ligeramente. Debajo de la imagen está la palabra "HACKERMAN" en letras grandes.
 
-## Texto Transcripto
+## Texto transcrito
 
 En los años 40~60, la programación era un campo dominado por mujeres, subestimado y visto como un oficio meramente administrativo y rutinario. El ensamblaje de <span lang="en"><em>hardware</em></span>, por otro lado, era considerado más importante, "ingeniería de verdad" y trabajo de hombres.
 

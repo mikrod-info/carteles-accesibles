@@ -4,11 +4,11 @@ title: Género en Informática
 
 # Género en Informática
 
-## Imagen
+## Descripción de imagen
 
 Hay un dibujo en blanco y negro de Cecilia Berdichevsky con cabello largo, ojos grandes y lleva un collar de perlas. Debajo de la ilustración, está su nombre un resumen de sus aportes.
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 

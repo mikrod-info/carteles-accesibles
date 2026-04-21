@@ -4,7 +4,7 @@ title: Hedy Lamarr
 
 # Hedy Lamarr
 
-## Imagen
+## Descripción de imagen
 
 El dibujo muestra un retrato a lápiz de Hedy Lamarr con cabello suelto. A la izquierda de su rostro, hay un símbolo de Wifi. A la derecha, se encuentra un símbolo de Bluetooth y un pequeño submarino cerca de su hombro derecho.
 

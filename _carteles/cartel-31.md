@@ -4,7 +4,7 @@ title: Mujeres programadoras
 
 # Mujeres programadoras
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 
@@ -19,7 +19,7 @@ Fueron 6 las que crearon el programa demo de la ENIAC (primera computadora digit
 - Marlyn Meltzer
 - Kathleen Antonelli
 
-## Imagen
+## Descripción de imagen
 
 [Columna derecha]
 

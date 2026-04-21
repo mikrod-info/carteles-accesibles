@@ -4,7 +4,7 @@ title: Lynn Conway
 
 # Lynn Conway
 
-## Texto Transcripto
+## Texto transcrito
 
 Lynn Conway, nacida en 1938 y fallecida en 2024.
 
@@ -13,7 +13,7 @@ Lynn Conway, nacida en 1938 y fallecida en 2024.
 - Experta en ciencia computacional e ingeniería eléctrica, realizó numerosas contribuciones que impulsaron grandes avances informáticos, como el <span lang="en"><em>Generalized Dynamic Instruction Handling</em></span>, un recurso clave para mejorar el rendimiento de los procesadores de computadora.
 - Conway nació en un cuerpo de hombre con el que nunca se sintió identificada, y en 1967, comenzó su tratamiento para remediarlo.
 
-## Imagen
+## Descripción de imagen
 
 [Columna derecha]
 

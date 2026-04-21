@@ -4,7 +4,7 @@ title: Estereotipos de género en la ciencia
 
 # Estereotipos de género en la ciencia
 
-## Texto Transcripto
+## Texto transcrito
 
 **Introducción**
 

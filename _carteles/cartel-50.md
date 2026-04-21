@@ -4,13 +4,13 @@ title: Jude Milhon
 
 # Jude Milhon
 
-## Imágenes
+## Descripción de imágenes
 
 En la parte superior hay un dibujo de una computadora portátil con la palabra "HACK" en la pantalla, y el ícono de Wifi al lado.
 
 También hay un dibujo de una persona sosteniendo un cartel junto con un módem.
 
-## Texto Transcripto
+## Texto transcrito
 
 - Promoción de las mujeres en la informática
 - Creación de <span lang="en"><em>Community memory</em></span>

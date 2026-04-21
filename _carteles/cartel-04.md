@@ -4,13 +4,13 @@ title: ¿Por qué hay cada vez menos mujeres en las TIC?
 
 # ¿Por qué hay cada vez menos mujeres en las TIC?
 
-## Imagen
+## Descripción de imagen
 
 Debajo del título, al centro, hay una ilustración de una mujer con gafas y el cabello recogido en un moño, usando una laptop de marca "Lenovo".
 
-## Texto Transcripto
+## Texto transcrito
 
-### Problema
+**Problema**
 
 - Pocas mujeres en informática.
 - Desigualdad laboral.
@@ -18,7 +18,7 @@ Debajo del título, al centro, hay una ilustración de una mujer con gafas y el 
 - Sexismo.
 - Brecha salarial.
 
-### Consecuencia
+**Consecuencia**
 
 - Menos diversidad en tecnología.
 - Productos pensados desde solo una perspectiva.
@@ -26,7 +26,7 @@ Debajo del título, al centro, hay una ilustración de una mujer con gafas y el 
 - Discriminación y micromachismo.
 - Poca visibilización.
 
-### Para cambiarlo
+**Para cambiarlo**
 
 - Más inclusión.
 - Igualdad laboral.

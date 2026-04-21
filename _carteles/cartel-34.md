@@ -4,7 +4,7 @@ title: Grace Hopper
 
 # Grace Hopper
 
-## Texto Transcripto
+## Texto transcrito
 
 Grace Hopper, nacida en 1906 y fallecida en 1992.
 

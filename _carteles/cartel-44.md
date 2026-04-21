@@ -4,9 +4,9 @@ title: Mujeres, ciencia y tecnología
 
 # Mujeres, ciencia y tecnología
 
-## Texto Transcripto
+## Texto transcrito
 
-### Invisibilización histórica
+**Invisibilización histórica**
 
 Muchas mujeres fueron pioneras en la informática del desarrollo tecnológico, pero sus aportes fueron poco reconocidos en la historia de la ciencia.
 Durante mucho tiempo se instaló la idea de que la tecnología y la programación son cosas de hombres.

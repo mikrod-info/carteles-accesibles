@@ -4,13 +4,13 @@ title: Rebeca Cherep de Guber
 
 # Rebeca Cherep de Guber 
 
-## Imágenes
+## Descripción de imágenes
 
 En la parte superior izquierda hay un dibujo de una mujer con anteojos y cabello rizado, frente a una computadora mirando el monitor.
 
 En la parte inferior derecha hay un dibujo de un hombre con anteojos una remera con el logo de Arch Linux y se muestra trabajando frente a una computadora. Relacionado a que los hombres suelen ser la cara visible en tecnología.
 
-## Texto Transcripto
+## Texto transcrito
 
 Rebeca Cherep de Guber, nacida en 1926 y fallecida en 2020.
 

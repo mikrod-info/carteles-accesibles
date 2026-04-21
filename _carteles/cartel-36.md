@@ -4,7 +4,7 @@ title: ¿Por qué las mujeres dejaron de programar?
 
 # ¿Por qué las mujeres dejaron de programar?
 
-## Imagen
+## Descripción de imagen
 
 Hay un gráfico de líneas que muestra una disminución de mujeres en carreras de tecnología. 
 En el eje horizontal de tiempo. Se marcan los años: 1970, 1984, 2015, y Actualidad.
@@ -12,7 +12,7 @@ En el eje vertical de mujeres inscriptas en tecnología. Se enumera: 75%, 15% y 
 Y el gráfico muestra que desde 1970 con 75% de ingresantes va decayendo y muestra en actualidad que el valor es 11%.
 Se aclara que 3 de cada 4 ingresantes eran mujeres en 1970.
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 

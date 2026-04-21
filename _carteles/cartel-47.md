@@ -4,11 +4,11 @@ title: ¿Por qué las mujeres dejaron de programar?
 
 # ¿Por qué las mujeres dejaron de programar?
 
-## Imagen
+## Descripción de imagen
 
 Dibujo de un hombre y su sombra es una mujer.
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 

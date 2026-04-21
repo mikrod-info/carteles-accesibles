@@ -4,7 +4,7 @@ title: Diversidad de Género
 
 # Diversidad de Género
 
-## Texto Transcripto
+## Texto transcrito
 
 Hay tres burbujas de pensamiento con texto:
 

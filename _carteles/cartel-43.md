@@ -4,7 +4,7 @@ title: Las mujeres y la Informática
 
 # Las mujeres y la Informática
 
-## Texto Transcripto
+## Texto transcrito
 
 - Algo que nos llamó la atención es como las mujeres recibieron poco reconocimiento pese a sus logros o hallazgos.
 

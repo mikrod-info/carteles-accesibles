@@ -4,7 +4,7 @@ title: Igualdad de género
 
 # Igualdad de género
 
-## Imagen
+## Descripción de imagen
 
 Hay un dibujo de una balanza de dos platos. 
 

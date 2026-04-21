@@ -4,11 +4,11 @@ title: Cecilia Berdichevsky
 
 # Cecilia Berdichevsky
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 
-**TRABAJOS**
+**Trabajos**
 
 - Programadora.
 - Jefa de Cálculo Numérico I.
@@ -29,7 +29,8 @@ En la parte inferior central, hay dos fechas en letras verdes:
 
 [Columna derecha]
 
-**ESTUDIOS**
+**Estudios**
+
 - Matemáticas en la UBA, Facultad de Ciencias Exactas.
 - Tomó clases con la programadora Cicely Popplewell y Ernesto García Camarero.
 - Continuó sus estudios en Manchester.

@@ -4,11 +4,11 @@ title: Mujeres de la Informática
 
 # Mujeres de la Informática
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 
-### Lynn Conway
+**Lynn Conway**
 
 - Pionera de los chips microelectrónicos
 - Trabajó en IBM
@@ -18,7 +18,7 @@ title: Mujeres de la Informática
 
 [Columna central]
 
-### Ada Lovelace
+**Ada Lovelace**
 
 - Primera programadora
 - Amante de las matemáticas
@@ -27,7 +27,7 @@ title: Mujeres de la Informática
 
 [Columna derecha]
 
-### Grace Murray H.
+**Grace Murray**
 
 - Creó el primer compilador de la historia
 - Precursora del lenguaje COBOL

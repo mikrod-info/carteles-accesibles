@@ -4,7 +4,7 @@ title: UNLP Informática
 
 # UNLP Informática
 
-## Imagen
+## Descripción de imagen
 
 La imagen es un dibujo de Mafalda, vistiendo un vestido verde con rayas y un lazo en el cabello observando a una computadora. 
 

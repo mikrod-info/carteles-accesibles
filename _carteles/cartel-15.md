@@ -4,11 +4,11 @@ title: Rebeca Cherep de G.
 
 # Rebeca Cherep de G.
 
-## Texto Transcripto
+## Texto transcrito
 
 Rebeca Cherep de G., nacida en 1926 y fallecida en 2020.
 
-## Descripción General
+## Descripción general
 
 Dibujo tipo caricatura de Rebeca Cherep sonriendo con los brazos extendidos. Debajo del dibujo, en letras grandes está escrito "Inicio La Informática".
 

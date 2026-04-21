@@ -4,7 +4,7 @@ title: Estereotipos y Tecnología
 
 # Estereotipos y Tecnología
 
-## Texto Transcripto
+## Texto transcrito
 
 [Columna izquierda]
 

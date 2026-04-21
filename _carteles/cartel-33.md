@@ -4,7 +4,7 @@ title: La relación entre el género y las TICS
 
 # La relación entre el género y las TICS
 
-## Texto Transcripto
+## Texto transcrito
 
 **Historia:** 
 
@@ -20,7 +20,7 @@ cada vez más mujeres estudian y participan en este campo, aunque todavía enfre
 - Promover más participación.
 - Visibilizar a mujeres referentes en la tecnología.
 
-## Descripción General
+## Descripción general
 
 La imagen muestra un cartel con el título "La relación entre el género y las TICS".
 
