@@ -13,8 +13,8 @@ body {
     font-size: 1.1rem;
     line-height: 1.7;
     max-width: min(70ch, 100%);
-    margin: auto;
-    padding: 1.5rem 1rem;
+    //margin: auto;
+    //padding: 1.5rem 1rem;
 }
 
 h1, h2, h3 {
@@ -27,7 +27,7 @@ h1, h2, h3 {
 // =========================
 
 a {
-  text-decoration: underline;
+  //text-decoration: underline;
   color: #1f5ea8;
 
   &:visited {
