@@ -6,7 +6,7 @@ title: Rebeca Cherep De Guber
 
 ## Texto Transcripto
 
-- Nació el 2 de julio de 1996 en avellaneda, BSAS.
+- Nació el 2 de julio de 1996 en avellaneda, Buenos Aires.
 – Fue una matemática y pionera en la informática argentina. Se doctoró en matemáticas en la UNLP 1949, convirtiéndose en una figura clave en el desarrollo y la tecnología en Argentina.
 – Lideró la creación de la UBA donde se instaló la primera computadora en Argentina.
 – Escribió el primer Elementos de Calculo Diferencial e Integral (Sadosky)

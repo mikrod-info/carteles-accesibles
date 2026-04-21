@@ -32,4 +32,4 @@ title: Mujeres de la Informática
 - Creó el primer compilador de la historia
 - Precursora del lenguaje COBOL
 - Primera hacker de la computación
-- Denominó el término "bug" a una falla de software
+- Denominó el término <span lang="en"><em>"bug"</em></span> a una falla de software

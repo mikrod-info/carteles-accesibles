@@ -9,28 +9,28 @@ title: Evelyn Berezin
 [Columna izquierda]
 
 Mientras trabajaba en
-Underwood Company
+<span lang="en"><em>Underwood Company</em></span>
 También trabajó en
-Teleregister donde
-desarrolló el 1er
+<span lang="en"><em>Teleregister</em></span> donde
+desarrolló el primer
 sistema de reserva
 de vuelos en tiempo
 real.
 
 [Columna central]
 
-CREADORA DEL PRIMER 
-ORDENADOR DE OFICINA
+Creadora del primer 
+ordenador de oficina
 
-EN 1968 CREÓ UN 
-PROGRAMA PARA CREAR Y 
-GESTIONAR TEXTOS
+En 1968 creó un 
+programa para crear y 
+gestionar textos
 
 [Columna derecha]
 
-NACIÓ EN EL 
-BRONX EN 1925,
-NUEVA YORK.
+Nació en el 
+Bronx en 1925,
+Nueva york.
 
 ## Imagen
 

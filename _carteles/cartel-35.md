@@ -8,9 +8,13 @@ title: Género en Informática
 
 Hay un dibujo en blanco y negro de Cecilia Berdichevsky con cabello largo, ojos grandes y lleva un collar de perlas. Debajo de la ilustración, está su nombre un resumen de sus aportes.
 
-"Fue una pionera de la informática argentina. Como primera programadora de una computadora Clementina, ayudó e iniciar el desarrollo de la computación en el país y abrió camino para las mujeres argentinas."
-
 ## Texto Transcripto
+
+[Columna izquierda]
+
+Fue una pionera de la informática argentina. Como primera programadora de una computadora Clementina, ayudó e iniciar el desarrollo de la computación en el país y abrió camino para las mujeres argentinas.
+
+[Columna derecha]
 
 **Reflexión:**
 

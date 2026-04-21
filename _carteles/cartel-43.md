@@ -13,13 +13,17 @@ title: Las mujeres y la Informática
 Hoy en día creemos que las tecnologías ya están mucho más admisibles para todos.
 
 **Ada Lovelace**
+
 La primera programadora y madre de la programación informática.
 
 **Grace Murray H.**
+
 Desarrolló el primer compilador para un lenguaje de programación.
 
 **Lynn Conway**
+
 Pionera en el campo de diseño de chips microelectrónicos.
 
 **Top secret Rosies**
+
 Seis especialistas en matemáticas que, en 1946, programaron el primer computador ENIAC.

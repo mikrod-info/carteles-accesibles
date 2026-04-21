@@ -6,11 +6,15 @@ title: La relación entre el género y las TICS
 
 ## Texto Transcripto
 
-**HISTORIA:** a lo largo de la historia, las mujeres han realizado aportes fundamentales al desarrollo de la tecnología, aunque muchas veces su trabajo fue invisibilizado.
+**Historia:** 
 
-**ACTUALIDAD:** cada vez más mujeres estudian y participan en este campo, aunque todavía enfrentan desigualdades.
+a lo largo de la historia, las mujeres han realizado aportes fundamentales al desarrollo de la tecnología, aunque muchas veces su trabajo fue invisibilizado.
 
-**OPINIÓN PARA LA IGUALDAD:**
+**Actualidad:** 
+
+cada vez más mujeres estudian y participan en este campo, aunque todavía enfrentan desigualdades.
+
+**Opinión para la igualdad:**
 
 - Reconocer su aporte.
 - Promover más participación.

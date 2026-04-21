@@ -12,10 +12,10 @@ En la esquina inferior derecha hay una imagen de Mr. Robot encapuchado con brazo
 
 ## Texto Transcripto
 
-En los años 40~60, la programación era un campo dominado por mujeres, subestimado y visto como un oficio meramente administrativo y rutinario. El ensamblaje de hardware, por otro lado, era considerado más importante, "ingeniería de verdad" y trabajo de hombres.
+En los años 40~60, la programación era un campo dominado por mujeres, subestimado y visto como un oficio meramente administrativo y rutinario. El ensamblaje de <span lang="en"><em>hardware</em></span>, por otro lado, era considerado más importante, "ingeniería de verdad" y trabajo de hombres.
 
 La primera programadora reconocida, fue Ada Lovelace.
 
-Muchos logros y descubrimientos en el campo fueron realizados por mujeres. En los 70s~80s, la programación comenzó a ganar status, a considerarse un trabajo más serio de hombres, y se comenzó a popularizar el estereotipo del hombre hacker, esto entre otros sucesos más, populó el campo de hombres.
+Muchos logros y descubrimientos en el campo fueron realizados por mujeres. En los 70s~80s, la programación comenzó a ganar estatus, a considerarse un trabajo más serio de hombres, y se comenzó a popularizar el estereotipo del hombre hacker, esto entre otros sucesos más, populó el campo de hombres.
 
 

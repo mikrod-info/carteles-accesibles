@@ -10,7 +10,7 @@ title: Hedy Lamarr
 
 Hay un dibujo hecho con fibrones de Hedy Lamarr joven, con cabello oscuro y ondulado, vestida con una blusa azul de botones. Ella está dentro de una pantalla de televisión rectangular y tiene un globo de pensamiento que dice: "¿Y si la señal cambiara de frecuencia para que no la puedan interceptar?"
 
-En la parte inferior derecha, hay dos iconos dibujados: uno que representa una señal de Wi-Fi y otro el símbolo de Bluetooth.
+En la parte inferior derecha, hay dos iconos dibujados: uno que representa una señal de Wifi y otro el símbolo de Bluetooth.
 
 ## Texto Transcripto 
 
@@ -26,7 +26,7 @@ Durante la Segunda Guerra Mundial desarrolló, junto al compositor George Anthei
 
 ### ¿Por qué es importante?
 
-Su invento fue la base de tecnologías modernas como el Wi-Fi, Bluetooth y GPS, aunque su aporte no fue reconocido durante muchos años.
+Su invento fue la base de tecnologías modernas como el Wifi, Bluetooth y GPS, aunque su aporte no fue reconocido durante muchos años.
 
 ## Integrantes
 

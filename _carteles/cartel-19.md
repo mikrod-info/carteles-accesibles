@@ -10,9 +10,9 @@ En el centro hay un dibujo a lápiz de Ada Lovelace con el peinado recogido, sen
 
 ## Texto Transcripto
 
-- NACIMIENTO: 10 de Diciembre de 1815, Londres
-- FALLECIMIENTO: 27 de Noviembre de 1852
-- CAMPO: Matemáticas y Computación Temprana
+- Nacimiento: 10 de Diciembre de 1815, Londres
+- Fallecimiento: 27 de Noviembre de 1852
+- Campo: Matemáticas y Computación Temprana
 
 "Analítica"
 "Innovadora"

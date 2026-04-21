@@ -25,15 +25,15 @@ Fueron 6 las que crearon el programa demo de la ENIAC (primera computadora digit
 
 Se presenta la ilustración en colores de Matías (Yo, Matías) con una camisa roja de lunares negros y pantalones cortos azules. El niño tiene una expresión curiosa y dice en un globo de diálogo:
 
-"Má... ¿Por qué
-las mujeres dejaron
-de programar?"
+> "Má... ¿Por qué
+> las mujeres dejaron
+> de programar?"
 
 La madre responde:
 
-"Ay Matías, vos y tus preguntas...
-Porque se naturalizó que las 
-compus son vistas como algo masculino 
-y comercializadas como 'juguetes para niños'."
+> "Ay Matías, vos y tus preguntas...
+> Porque se naturalizó que las 
+> compus son vistas como algo masculino 
+> y comercializadas como 'juguetes para niños'."
 
-Adicionalmente, hay decoraciones de mariposas coloridas hechas con origami (papel doblado) rodeando a Matías.
+Adicionalmente, hay decoraciones de mariposas coloridas hechas con origami (papel doblado) al rededor de Matías.

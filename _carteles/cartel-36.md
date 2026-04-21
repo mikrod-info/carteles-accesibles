@@ -21,8 +21,8 @@ Se aclara que 3 de cada 4 ingresantes eran mujeres en 1970.
 Baja masiva de mujeres en Computación.
 Causas posibles: Aparición de PC en hogares, las cuales se veían como juguetes por su simplicidad.
 
-simplicidad -> jugueterías
-simplicidad -> televisión
+Simplicidad -> jugueterías
+Simplicidad -> televisión
 
 [Columna central]
 

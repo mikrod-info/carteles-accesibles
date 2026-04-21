@@ -6,13 +6,13 @@ title: Cecilia Berdichevsky
 
 ## Texto Transcripto
 
-[Colmuna izquierda]
+[Columna izquierda]
 
 **TRABAJOS**
 
 - Programadora.
 - Jefa de Cálculo Numérico I.
-- 1962: obtuvo beca para trabajar en University of London Computer Unit y luego en Francia.
+- 1962: obtuvo beca para trabajar en <span lang="en"><em>University of London Computer Unit</em></span> y luego en Francia.
 - 1984: Subgerente General de Centro de Computadoras.
 - Consultora en Informática.
 - Participó en proyectos y organismos internacionales como el PNUD.
@@ -31,7 +31,7 @@ En la parte inferior central, hay dos fechas en letras verdes:
 
 **ESTUDIOS**
 - Matemáticas en la UBA, Facultad de Ciencias Exactas.
-- Tomó clases con la programadora Cicely Popplewell y Ernesto García Camorera.
+- Tomó clases con la programadora Cicely Popplewell y Ernesto García Camarero.
 - Continuó sus estudios en Manchester.
 
 ## Integrantes

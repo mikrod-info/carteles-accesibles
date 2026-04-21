@@ -6,7 +6,7 @@ title: Lynn Conway
 
 ## Texto Transcripto
 
-Lynn Conway, nacida en 1938 y fallecida en 2024
+Lynn Conway, nacida en 1938 y fallecida en 2024.
 
 [Columna izquierda]
 

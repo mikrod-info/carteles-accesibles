@@ -14,10 +14,10 @@ title: ¿Por qué las mujeres 'dejaron' de programar?
    - Hedy Lamarr
    - Jude Milhon
    - Evelyn Berezin
-   - Lynn Concuay
-   - Top Secret Rosies
+   - Lynn Conway
+   - <span lang="en"><em>Top Secret Rosies</em></span>
    - Grace Murray
-   - France E. Allen
+   - Frances E. Allen
 
 [Segunda columna]
 
@@ -42,7 +42,7 @@ title: ¿Por qué las mujeres 'dejaron' de programar?
 
 [Quinta columna]
 
-**Conclusión & Propuesta**:
+**Conclusión y Propuesta**:
    - La única forma de superar esto es que los esfuerzos para atraer a mujeres no deben ser solo en la escuela secundaria, sino también en la primaria.
    - Esto pondría en ventaja el rol de la mujer en estos campos, devolviendo un poco del nuevo estereotipo. Daría lugar a la validación y reconocimiento de las aspiraciones.
 

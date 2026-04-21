@@ -1,10 +1,12 @@
 ---
-title: Grace Hopper (1906 a 1992)
+title: Grace Hopper
 ---
 
-# Grace Hopper (1906 a 1992)
+# Grace Hopper
 
 ## Texto Transcripto
+
+Grace Hopper, nacida en 1906 y fallecida en 1992.
 
 [Columna izquierda]
 
@@ -18,5 +20,5 @@ Principales aportes:
 
 -Creó el primer compilador (A-0), software capaz de traducir instrucciones al lenguaje de máquina.
 -Creó el lenguaje 'COBOL', el primer lenguaje de programación universal diseñado para negocios.
--Popularizó el término 'bug'.
+-Popularizó el término <span lang="en"><em>'bug'</em></span>.
 -Fue la primera persona en programar el ordenador "Mark I".

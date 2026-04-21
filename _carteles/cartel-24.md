@@ -6,7 +6,7 @@ title: Margaret Hamilton
 
 [Parte superior]
 
-Hay burbujas de texto rodeande el nombre de Margaret Hamilton.
+Hay burbujas de texto rodeando el nombre de Margaret Hamilton.
 
 Parte superior izquierda: 
   - Desarrollo sistemas anti-errores.
@@ -21,15 +21,15 @@ Parte superior derecha:
 Parte inferior:
 
 - Desde pequeña Margaret demostró un gran interés por las matemáticas y la lógica. Por ello, a pesar de las presiones y estereotipos al rededor del rol de la mujer no la favorecían. Ella igualmente consiguió graduarse en Matemáticas y Filosofía en 1958.
-- Una de las 1ras programadoras de software.
-- Cofundó la empresa higher order software.
+- Una de las primeras programadoras de software.
+- Cofundó la empresa <span lang="en"><em>Higher Order Software</em></span>.
 
 ## Texto Transcripto
 
 [Parte inferior]
 [Columna izquierda]
 
-Fundó sus propias empresas Higher Order Software y Hamilton Technologies.
+Fundó sus propias empresas <span lang="en"><em>Higher Order Software</em></span> y <span lang="en"><em>Hamilton Technologies</em></span>.
 
 Recibió varias condecoraciones entre ellas, el premio a la ley espacial excepcional de la NASA (2003) y en 2016 el presidente Barack Obama le otorgó la medalla presidencial de la libertad.
 

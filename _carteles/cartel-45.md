@@ -1,8 +1,8 @@
 ---
-title: Mujeres en la historia de la Informatica
+title: Mujeres en la historia de la Informática
 ---
 
-# Mujeres en la historia de la Informatica
+# Mujeres en la historia de la Informática
 
 ## Imagen 
 

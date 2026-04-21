@@ -6,9 +6,9 @@ title: Igualdad en la Ciencia y la Tecnología
 
 ## Imágenes
 
-En la esquina superior izquierda hay un dibujo de un robot con los íconos de Google Chrome y el de Wi-fi.
+En la esquina superior izquierda hay un dibujo de un robot con los íconos de Google Chrome y el de Wifi.
 
-En la esquina superior derecha hay un dibujo de una computadora con la palabra "INFORMATICA" en la pantalla
+En la esquina superior derecha hay un dibujo de una computadora con la palabra "Informática" en la pantalla
 
 ## Texto Transcripto
 

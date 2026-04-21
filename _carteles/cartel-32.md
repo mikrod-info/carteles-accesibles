@@ -12,12 +12,12 @@ En este afiche presentaremos las reflexiones realizadas a partir de los artícul
 
 **Ocho mujeres icónicas para la informática**
 
-Lovelace, Allen, Murray H., Top Secret Rosies, Conway, Berezin, Hillon, Lamarr. Creemos que, si se da el reconocimiento que se merecen, puede provocar que más mujeres se interesen en el ámbito.
+Lovelace, Allen, Murray H., <span lang="en"><em>Top Secret Rosies</em></span>, Conway, Berezin, Milhon, Lamarr. Creemos que, si se da el reconocimiento que se merecen, puede provocar que más mujeres se interesen en el ámbito.
 
 **Pioneras de la ciencia en nuestra ciudad**
 
 Todas estudiaron y trabajaron en la UNLP.
-Peña, Barreda, Carleazzi. Deben ser recordadas por haber demostrado que podían estudiar, hacer investigaciones científicas, y trabajar en profesiones dominadas por hombres.
+Peña, Barreda, Cortelezzi. Deben ser recordadas por haber demostrado que podían estudiar, hacer investigaciones científicas, y trabajar en profesiones dominadas por hombres.
 
 **¿Por qué las mujeres "dejaron" de programar?**
 
