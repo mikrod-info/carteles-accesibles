@@ -19,7 +19,7 @@ Al comienzo muchas programadoras fueron limitadas por barreras sociales y cultur
 
 [Columna derecha]
 
-Algunos de estos problemas ya se solucionaron por las **militancias feministas**, sin embargo aún persisten. Por lo cual, proponemos:
+Algunos de estos problemas ya se solucionaron por las <bold>militancias feministas</bold>, sin embargo aún persisten. Por lo cual, proponemos:
 
 - Darle mayor reconocimiento a las mujeres informáticas científicas
 - Informar y motivar a todas las infancias sin estereotipos
