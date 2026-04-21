@@ -1,8 +1,8 @@
 ---
-title: Las chicas necesitan modems
+title: Las chicas necesitan módems
 ---
 
-# Las chicas necesitan modems
+# Las chicas necesitan módems
 
 ## Texto Transcripto
 

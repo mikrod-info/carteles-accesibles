@@ -1,8 +1,8 @@
 ---
-title: Mujeres pioneras en la Informatica
+title: Mujeres pioneras en la Informática
 ---
 
-# Mujeres pioneras en la Informatica
+# Mujeres pioneras en la Informática
 
 ## Imágenes
 
@@ -18,7 +18,7 @@ Reconocer sus aportes ayuda a construir una informática más inclusiva.
 
 [Columna derecha]
 
-Mujeres científicas como Rebeca Guber y Cecilia Tuwjasz participaron en los primeros desarrollos de la informatica en el país.
+Mujeres científicas como Rebeca Guber y Cecilia Tuwjasz participaron en los primeros desarrollos de la informática en el país.
 
 ## Descripción General
 
