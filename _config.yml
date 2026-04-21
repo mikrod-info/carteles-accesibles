@@ -3,7 +3,7 @@ url: https://mikrod-info.github.io
 
 title: Carteles accesibles
 description: Plataforma de texto alternativo de carteles educativos, accesible mediante QR y lectores de pantalla.
-author: Dirección de Accesibilidad<br> Facultad de Informática, UNLP
+author: Dirección de Accesibilidad,    Facultad de Informática, UNLP
 favicon: /assets/icons/favicon.svg
 
 theme: minima
