@@ -58,7 +58,7 @@ Dado que las descripciones textuales son el eje central del proyecto, se prioriz
 
 Texto
 
-## Texto transcripto
+## Texto transcrito
 
 [Columna izquierda]
 
